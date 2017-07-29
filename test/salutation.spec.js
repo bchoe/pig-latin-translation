@@ -5,10 +5,6 @@ const myPig = pigLatin();
 
 describe ('PigLatin', () => {
 
-it('should be an object', () => {
-  Expect(myPig).to.be.an('object');
-});
-
 it('should return a pig word', () =>{
   Expect(myPig.pigWord('eat')).to.equal('eatay');
   Expect(myPig.pigWord('omelet')).to.equal('omeletay');

@@ -31,8 +31,11 @@ phrase = 'This phrase will be converted into piglatin, please insert your phrase
 
 pigString= 'is-Thay ig-Pay atin-Lay ase-phray ill-way e-bay anslated-tray ack-bay into-ay e-thay ative-nay anguage-lay -asay -aay ing.-stray'
 
-
-
 !['Pig latin'](https://media.giphy.com/media/c2rJA8UVBVodi/giphy.gif)
+
+##Getting started
+
+To initialize `npm i`
+To check your work `npm test`
 
 Thaaaaaaanks :D
